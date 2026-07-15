@@ -1,6 +1,6 @@
 {
-  "name": "wxt_test",
-  "description": "manifest.json description",
+  "name": "focus-sprout",
+  "description": "집중할수록 작은 식물이 자라는 Chrome용 Pomodoro 확장 프로그램",
   "private": true,
   "version": "0.0.0",
   "type": "module",
