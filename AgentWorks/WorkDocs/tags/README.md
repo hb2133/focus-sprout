@@ -4,6 +4,11 @@
 
 아직 실제 프로젝트 태그는 정의되지 않았다.
 
+## focus-sprout
+DisplayName: Focus Sprout
+Aliases: pomodoro, focus-timer
+Description: Focus Sprout popup, 집중 타이머, 성장 기록과 관련된 작업
+
 규칙:
 
 - 태그는 작업 루트의 `Meta.md`에서만 사용한다.

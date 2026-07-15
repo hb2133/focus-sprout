@@ -1,6 +1,12 @@
 import type { PropsWithChildren } from 'react';
+import { GlobalDesign } from '@/design/GlobalDesign.global';
 
-export function AppShell(props: PropsWithChildren)
+export function AppShell(Props: PropsWithChildren)
 {
-    return <>{props.children}</>;
+    return (
+        <>
+            <GlobalDesign />
+            {Props.children}
+        </>
+    );
 }

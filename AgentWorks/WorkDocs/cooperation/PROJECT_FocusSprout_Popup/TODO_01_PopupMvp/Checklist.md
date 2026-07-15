@@ -1,0 +1,15 @@
+# Checklist
+
+## Main
+- [x] 작업 범위를 정리한다.
+- [x] 관련 코드와 문서를 확인한다.
+- [x] Brief와 panel planning을 작성한다.
+- [x] popup entry와 BasePanel/Section 골격을 구현한다.
+- [x] timer manager와 background alarm을 구현한다.
+- [x] layered settings/reset 흐름을 구현한다.
+- [x] 수정 또는 구현을 반영한다.
+- [x] 결과를 검증한다.
+
+## Review Follow-ups
+- [x] Section의 manager type import를 Panel 파생값으로 이동한다.
+- [x] lint, compile, production build를 다시 통과한다.

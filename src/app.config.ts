@@ -1,4 +1,5 @@
 import { defineAppConfig } from '#imports';
 
-export default defineAppConfig({
+export default defineAppConfig(
+{
 });
