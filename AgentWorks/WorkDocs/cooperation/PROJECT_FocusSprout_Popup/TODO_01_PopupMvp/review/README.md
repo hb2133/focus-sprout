@@ -11,6 +11,6 @@ LatestSummary:
 - lint, compile, production build와 Chrome popup 렌더링 통과
 
 LastCommit:
-- Branch: -
-- Hash: -
-- Subject: -
+- Branch: master
+- Hash: f2005bbc356129088fac214a4a963e58f5c51b70
+- Subject: feat: add Focus Sprout popup timer
